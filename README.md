@@ -7,6 +7,7 @@ Dataset contains Amazon product information including:
 - Number of ratings and reviews
 - Star-wise rating counts (1–5 stars)
 - Overall product rating
+  Tech Stack
 - Python
 - PySpark
 - Apache Spark
